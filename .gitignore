@@ -33,4 +33,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#ALL env files
+.env
+
 # gitignore looks good. reviewed-LE
