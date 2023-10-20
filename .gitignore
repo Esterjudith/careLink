@@ -33,4 +33,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-# please delete when final-.gitignore already exists so I took this ticket to seem productive lol
+# gitignore looks good. reviewed-LE
